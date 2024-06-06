@@ -3,13 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sami Mali</h1>
 <h3 align="center">A passionate learner, always eager to acquire new skills.</h3>
 
-- 🔭 I’m currently working on **building up my GitHub Profile**
+- 🔭 I’m currently working on **building up my GitHub Profile**.
 
-- 🌱 I’m currently learning **QA Automations**
-
-- 👯 I’m looking to collaborate on **any of the Python, Django projects**
-
-- 📫 How to reach me **email me or connect on LinkedIn**
+- 🌱 I’m currently learning **QA Automations**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
