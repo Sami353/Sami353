@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building up my GitHub Profile**
 
-- 🌱 I’m currently learning **Python, Django, Docker**
+- 🌱 I’m currently learning **QA Automations**
 
 - 👯 I’m looking to collaborate on **any of the Python, Django projects**
 
