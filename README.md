@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building up my GitHub Profile**.
 
-- 🌱 I’m currently learning **QA Automations** and **Data Analysis**.
+- 🌱 I’m currently learning **QA Automations**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
